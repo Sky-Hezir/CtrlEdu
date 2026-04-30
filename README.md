@@ -19,8 +19,8 @@ Debido al peso del archivo (58 MB), el APK se encuentra comprimido para facilita
    * Permite la "Instalación desde orígenes desconocidos" en los ajustes de seguridad.
 4. **Abrir:** Ejecuta la aplicación e inicia sesión.
    * Para iniciar sesion como administrador las credenciales son:
-       *Nombre de usuario:* admin
-       *Contraseña:* 123
+      * *Nombre de usuario:* admin
+      * *Contraseña:* 123
 
 ## Detalles del Proyecto
 * **Desarrollador:** Huertas Carranza Job Hezir
