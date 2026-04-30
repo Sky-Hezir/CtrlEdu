@@ -1,7 +1,7 @@
 # CtrlEdu - Sistema de Gestión Académica
 
 ## Descripción
-**CtrlEdu** es una solución móvil diseñada para optimizar la administración escolar. La aplicación permite gestionar de manera eficiente el control de asistencias, calificaciones y horarios, facilitando la comunicación entre la institución y los estudiantes.
+**CtrlEdu** es una solución móvil diseñada para optimizar la administración escolar. La aplicación permite gestionar de manera eficiente el control de usuarios, cursos y calificaciones, facilitando la comunicación entre la institución y los estudiantes.
 
 ## Características Principales
 * **Gestión de Usuarios:** Registro, actualización y eliminación de usuarios(Docente y alumno).
