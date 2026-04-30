@@ -19,15 +19,10 @@ Debido al peso del archivo (58 MB), el APK se encuentra comprimido para facilita
    * Permite la "Instalación desde orígenes desconocidos" en los ajustes de seguridad.
 4. **Abrir:** Ejecuta la aplicación e inicia sesión.
 
-## Tecnologías Utilizadas
-* **Frontend:** React Native / Expo.
-* **Backend:** PHP y MySQL para la gestión de datos persistentes.
-* **Metodología:** Desarrollo basado en análisis de sistemas y priorización MoSCoW.
-
 ## Detalles del Proyecto
 * **Desarrollador:** Huertas Carranza Job Hezir
 * **Tecnologías Utilizadas:**
-  * **Frontend:** React Native + Expo Go.
+  * **Frontend:** React Native / Expo Go.
   * **Configuración:** Managed Workflow (app.json).
   * **Despliegue:** APK comprimido para instalación directa.
     
