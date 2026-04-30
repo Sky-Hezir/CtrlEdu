@@ -1,32 +1,39 @@
 # CtrlEdu - Sistema de Gestión Académica
 
-## Descripción
+## 📌 Descripción
 **CtrlEdu** es una solución móvil diseñada para optimizar la administración escolar. La aplicación permite gestionar de manera eficiente el control de usuarios, cursos y calificaciones, facilitando la comunicación entre la institución y los estudiantes.
 
-## Características Principales
-* **Gestión de Usuarios:** Registro, actualización y eliminación de usuarios(Docente y alumno).
-* **Gestión de Cursos:** Registro, actualización y eliminación de cursos.
-* **Registro de Notas:** Registro de notas por cursos por parte del docente.
-* **Visualización de Crusos y Notas:** Vista de cursos y notas por parte del estudiante.
-* **Interfaz Profesional:** Diseño limpio y minimalista para una mejor experiencia de usuario.
+## 🚀 Características Principales
+- **Gestión de Usuarios:** Registro, actualización y eliminación de usuarios (docentes y alumnos).
+- **Gestión de Cursos:** Registro, actualización y eliminación de cursos.
+- **Registro de Notas:** Ingreso de calificaciones por curso por parte del docente.
+- **Visualización de Cursos y Notas:** Consulta de cursos y calificaciones por parte del estudiante.
+- **Interfaz Profesional:** Diseño limpio y minimalista para una mejor experiencia de usuario.
 
-## Instrucciones de Descarga e Instalación
-Debido al peso del archivo (58 MB), el APK se encuentra comprimido para facilitar su subida al repositorio.
+## 📥 Descarga e Instalación
 
-1. **Descargar:** Haz clic en el archivo `CtrlEdu.rar` y presiona el botón **Download**.
-2. **Descomprimir:** Una vez descargado en tu PC o dispositivo, utiliza una aplicación como WinRAR o similar para extraer el archivo `CtrlEdu.apk`.
-3. **Instalación:** * Transfiere el archivo `.apk` a tu teléfono Android.
-   * Permite la "Instalación desde orígenes desconocidos" en los ajustes de seguridad.
-4. **Abrir:** Ejecuta la aplicación e inicia sesión.
-   * Para iniciar sesion como administrador las credenciales son:
-      * *Nombre de usuario:* admin
-      * *Contraseña:* 123
+### 🔹 Opción 1: Descarga directa (recomendada)
+1. [Descargar APK desde Google Drive](https://drive.google.com/file/d/1bbwbeuH1lalUHPQBLqkjAwxUlhryU0N7/view?usp=drive_link)
+2. Habilita la opción **"Instalar aplicaciones de orígenes desconocidos"** en tu dispositivo Android.
+3. Abre el archivo `.apk` descargado e instala la aplicación.
+4. Ejecuta la app e inicia sesión.
 
-## Detalles del Proyecto
-* **Desarrollador:** Huertas Carranza Job Hezir
-* **Tecnologías Utilizadas:**
-  * **Frontend:** React Native / Expo Go.
-  * **Configuración:** Managed Workflow (app.json).
-  * **Despliegue:** APK comprimido para instalación directa.
-    
-* **Institución:** ISAG - Ingeniería de Software
+### 🔹 Opción 2: Archivo comprimido
+1. Descarga el archivo `CtrlEdu.rar`.
+2. Descomprime el archivo usando WinRAR o similar.
+3. Instala el archivo `CtrlEdu.apk` en tu dispositivo Android.
+4. Ejecuta la aplicación.
+
+### 🔐 Credenciales de administrador
+- **Usuario:** `admin`
+- **Contraseña:** `123`
+
+## 🛠️ Detalles del Proyecto
+- **Desarrollador:** Huertas Carranza Job Hezir
+- **Tecnologías Utilizadas:**
+  - **Frontend:** React Native / Expo Go
+  - **Configuración:** Managed Workflow (app.json)
+  - **Despliegue:** APK listo para instalación directa
+
+## 🏫 Instituto - ISAG
+**Carrera:** Desarrollo de sistemas - V ciclo
